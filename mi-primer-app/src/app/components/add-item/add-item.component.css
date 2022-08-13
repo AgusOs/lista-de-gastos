@@ -1,0 +1,35 @@
+form{
+    margin: 0 auto;
+    width: 300px;
+    display: block;
+}
+form div{
+    padding: 5px 0;
+}
+
+form label{
+    display: block;
+    padding: 10px 0;
+}
+form input[type=text]{
+    width: 100%;
+    padding: 5px;
+    border: none;
+    background: rgb(23,55,160,0.2);
+}
+.crear-btn input{
+        border: none;
+        font-size: 12px;
+        background-color: rgb(23,55,160);
+        color: white;
+        padding: 5px;
+        width: 100%;
+        box-sizing: border-box;
+}
+.crear-btn input:hover{
+        background-color: rgb(0, 0, 134);
+}
+h2{
+    padding: 25px 0 0;
+    text-align:center;
+}
